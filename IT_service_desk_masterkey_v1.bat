@@ -1,7 +1,7 @@
 :: Created by:		reurbo
 :: Created on:		2019.03.15
 :: Last updated:    	2019.04.29
-:: Script name:		IT_service_desk_tech_masterkey_v1.bat
+:: Script name:		IT_service_desk_masterkey_v1.bat
 :: Description:		A command line batch script tool for helping an IT Service Desk technician to locally and remotely
 ::					work on computers on the company network and to be able to search Active Directory account info. This
 ::					script is a combination of what was once several individual scripts I'd made and wanted to make their
