@@ -1,4 +1,4 @@
-:: Created by:		reurbo
+:: Created by:		Brad Arrowood
 :: Created on:		2019.03.15
 :: Last updated:    	2019.04.29
 :: Script name:		IT_service_desk_masterkey_v1.bat
